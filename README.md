@@ -8,6 +8,17 @@ Welcome to my GitHub profile! I'm a Grade 11 student passionate about web develo
 - 💼 Currently working on: [Finishing Highschool]
 - 🌱 Learning: [Technologies/Computer studys] & [HTML, CSS, JS]
 
+## Education
+
+- 🎓 Currently in Grade 11 at Nora Frances Henderson
+
+## Hobbies
+
+- 📷 Photography
+- 🎮 Video Games
+- 🎨 Digital Arts / Drawing
+- 👪 Spending time with Freinds & Family
+
 ## My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robbi3-T&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,7 +32,6 @@ Welcome to my GitHub profile! I'm a Grade 11 student passionate about web develo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
