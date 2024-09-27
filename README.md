@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Grade 11 student passionate about web develo
 
 ## Education
 
-- 🎓 Currently in Grade 11 at Nora Frances Henderson
+- 🎓 Currently in Grade 12 at Nora Frances Henderson
 
 ## Hobbies
 
